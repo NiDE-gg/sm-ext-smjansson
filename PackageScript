@@ -44,7 +44,7 @@ CopyFiles('pawn/scripting', 'addons/sourcemod/scripting',
 # Include Files
 CopyFiles('pawn/scripting/include', 'addons/sourcemod/scripting/include',
   [
-    'smjansson.inc'
+    'smjansson.inc',
+    'smjanssontest.inc'
   ]
 )
-

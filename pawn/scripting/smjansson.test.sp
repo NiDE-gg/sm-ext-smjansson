@@ -1,7 +1,7 @@
 #pragma semicolon 1
 #include <sourcemod>
 #include <smjansson>
-#include <test>
+#include <smjanssontest>
 
 #define VERSION 		"0.0.2"
 
