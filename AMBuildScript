@@ -20,6 +20,7 @@ WinLinuxMac = ['windows', 'linux', 'mac']
 
 PossibleSDKs = {
   'sdk2013': SDK('HL2SDK2013', '2.sdk2013', '9', 'SDK2013', WinLinuxMac, 'sdk2013'),
+  'csgo': SDK('HL2SDKCSGO', '2.csgo', '21', 'CSGO', WinLinuxMac, 'csgo'),
 }
 
 def ResolveEnvPath(env, folder):
